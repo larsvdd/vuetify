@@ -20,7 +20,7 @@ export default {
       activateDescending: 'Activeer om aflopend te sorteren.',
       activateAscending: 'Activeer om oplopend te sorteren.',
     },
-    sortBy: 'Sorteer volgens',
+    sortBy: 'Sorteer op',
   },
   dataFooter: {
     itemsPerPageText: 'Aantal per pagina:',
